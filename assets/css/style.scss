@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img[alt=teias-logo] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}

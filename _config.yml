@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: TEIAS Model Learning Home Page
+kramdown:
+    auto_ids: true

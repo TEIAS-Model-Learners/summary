@@ -37,7 +37,7 @@
     - example slides: [Dynamic L* example](https://docs.google.com/presentation/d/1TsxvXI29YDuJqBCA85kdCt70adTCrWexqGwoWEFonsc/edit?usp=sharing)
 
 
-## Refrences
+## References
 
 #### [1] 
 #### Vaandrager, F. (2017). Model learning. Communications of the ACM, 60(2), 86–95. [https://doi.org/10.1145/2967606](https://doi.org/10.1145/2967606)

@@ -75,3 +75,6 @@
 
 #### [10]
 #### Heymans, P., Schobbens, P., Trigaux, J., Bontemps, Y., Matulevičius, R., &amp; Classen, A. (2008). Evaluating formal properties of feature diagram languages. IET Software, 2(3), 281. doi:10.1049/iet-sen:20070055
+
+#### [11]
+#### Duhaiby, O. A., &amp; Groote, J. F. (2020). Active Learning of Decomposable Systems. Proceedings of the 8th International Conference on Formal Methods in Software Engineering. doi:10.1145/3372020.3391560

@@ -41,7 +41,7 @@
 # Software Product Lines
 - As a research problem we were curious whether it is possible to remove priority operator from `Featured Transition Systems` definition or not. We needed to learn how to write formal and precise proofs. We read [[5]](#5) about strutured proofs. Here is it's [summary](https://docs.google.com/presentation/d/1ZV77QDbM9EYCSbzcB-Ek_q228Hl7tRvpaQXUUy81O7Y/edit?usp=sharing) slides.
 
-- We studied paper [[9]][#9] as we needed more precise definitoins of the concepts, which were introduced in [[4]](#4)
+- We studied paper [[9]](#9) as we needed more precise definitoins of the concepts, which were introduced in [[4]](#4)
 
 # References
 

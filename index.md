@@ -2,6 +2,7 @@
 ## Welcome to Model Learners Page
 ![teias-logo](logo.jpeg)
 ### What we have learnt sofar:
+# Foundations
 - Angluin L* algorithm for model learning:   
     - paper: [[1]](#1)
 
@@ -15,6 +16,7 @@
         - slides (Dr. Mousavi University slides): [I](./slides/model-testing/model-testing/I.pdf), [II](./slides/model-testing/model-testing/II.pdf)
         -book(for further study): [[2]](#2)
 
+# Automata Learning
 - `Transition Systems` and an efficient varient of them called `Featured Transition Systems` and their model checking algorithm.
     - papers:
         - [[3]](#3)
@@ -22,7 +24,6 @@
         Model checking of `Featured Transition Systems` use `sequential product` of transition systems. These slides have some examples of this notion which we reviwed in one of the meetings.
             - (main reference for formal definitions) [[4]](#4)
     
-    As a research problem we were curious whether it is possible to remove priority operator from `Featured Transition Systems` definition or not. We needed to learn how to write formal and precise proofs. We read [[5]](#5) about strutured proofs. Here is it's [summary](https://docs.google.com/presentation/d/1ZV77QDbM9EYCSbzcB-Ek_q228Hl7tRvpaQXUUy81O7Y/edit?usp=sharing) slides.
 
 - Besides `Featured Transition Systems` as a family-based technique for model checking, we studied FFSMs which is another family-based technique:
     - paper: [[6]](#6)
@@ -37,7 +38,12 @@
     - example slides: [Dynamic L* example](https://docs.google.com/presentation/d/1TsxvXI29YDuJqBCA85kdCt70adTCrWexqGwoWEFonsc/edit?usp=sharing)
 
 
-## References
+# Software Product Lines
+- As a research problem we were curious whether it is possible to remove priority operator from `Featured Transition Systems` definition or not. We needed to learn how to write formal and precise proofs. We read [[5]](#5) about strutured proofs. Here is it's [summary](https://docs.google.com/presentation/d/1ZV77QDbM9EYCSbzcB-Ek_q228Hl7tRvpaQXUUy81O7Y/edit?usp=sharing) slides.
+
+- We studied paper [[9]][#9] as we needed more precise definitoins of the concepts, which were introduced in [[4]](#4)
+
+# References
 
 #### [1] 
 #### Vaandrager, F. (2017). Model learning. Communications of the ACM, 60(2), 86–95. [https://doi.org/10.1145/2967606](https://doi.org/10.1145/2967606)
@@ -63,3 +69,9 @@
 
 #### [8]
 #### Naeem Irfan, M., Oriat, C., & Groz, R. (2013). Model Inference and Testing. Advances in Computers, 89–139. [https://doi.org/10.1016/b978-0-12-408094-2.00003-5](https://doi.org/10.1016/b978-0-12-408094-2.00003-5)
+
+#### [9]
+#### Isberner, M., Howar, F., &amp; Steffen, B. (2014). The TTT Algorithm: A Redundancy-Free Approach to Active Automata Learning. Runtime Verification Lecture Notes in Computer Science, 307-322. doi:10.1007/978-3-319-11164-3_26
+
+#### [10]
+#### Heymans, P., Schobbens, P., Trigaux, J., Bontemps, Y., Matulevičius, R., &amp; Classen, A. (2008). Evaluating formal properties of feature diagram languages. IET Software, 2(3), 281. doi:10.1049/iet-sen:20070055

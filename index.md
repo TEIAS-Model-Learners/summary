@@ -16,6 +16,15 @@
     - paper: [[1]](#1)
 
     after learning the algorithm we applied it on the `A1` machine on page 2 of [this slides](slides/model-learning/example.pdf)
+- TTT :
+    - paper: [[9]](#9)
+    
+    Another automata learning algorithm that was reviewed was the TTT algorithm. What distinguishes TTT from the Angluin L* anlgorithm is its its redundancy-free organization of observations, which can be exploited to achieve optimal linear space complexity.
+
+- Learning of Decomposable Systems:
+    - paper: [[11]](#11)
+
+A big problem with active learning is that it is very difficult to learn large models and learning models with tens of thousands of states becomes exceptionally resource intensive. In this type of learning models the system is divided into separate components and each component is learned individually. The final learned model is the synchronous product of all the separately learned components.
 
 
 - As you may have noticed, model of a particular product changes over time. For example a product might be added a feature, or it may have a bug fix. One naive approach is that we build a new model from scratch which obviously is not efficient. So we learnt adaptive model learning methods; i.e `dynamic model learning` and `partial dynamic model learning` which are more efficient as they initially exploit observation table of the old version.
@@ -25,6 +34,8 @@
         - [[8]](#8)  
             - summary slides: [A summary of : Model Inference and Testing](https://docs.google.com/presentation/d/1IK91ROipATUKnb56KnsaRYO6YE0InFeNNtjJVDT--Jc/edit?usp=sharing)
     - example slides: [Dynamic L* example](https://docs.google.com/presentation/d/1TsxvXI29YDuJqBCA85kdCt70adTCrWexqGwoWEFonsc/edit?usp=sharing)
+
+
 
 
 # Software Product Lines
@@ -42,7 +53,7 @@
 
 - As a research problem we were curious whether it is possible to remove priority operator from `Featured Transition Systems` definition or not. We needed to learn how to write formal and precise proofs. We read [[5]](#5) about strutured proofs. Here is it's [summary](https://docs.google.com/presentation/d/1ZV77QDbM9EYCSbzcB-Ek_q228Hl7tRvpaQXUUy81O7Y/edit?usp=sharing) slides.
 
-- We studied paper [[9]](#9) as we needed more precise definitoins of the concepts, which were introduced in [[4]](#4)
+
 
 # References
 #### [1] 

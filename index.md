@@ -72,10 +72,10 @@
 #### Lamport, L. (1995). How to Write a Proof. The American Mathematical Monthly, 102(7), 600. [https://doi.org/10.2307/2974556](https://doi.org/10.2307/2974556)
 
 #### [9]
-#### Isberner, M., Howar, F., &amp; Steffen, B. (2014). The TTT Algorithm: A Redundancy-Free Approach to Active Automata Learning. Runtime Verification Lecture Notes in Computer Science, 307-322. doi:10.1007/978-3-319-11164-3_26
+#### Isberner, M., Howar, F., &amp; Steffen, B. (2014). The TTT Algorithm: A Redundancy-Free Approach to Active Automata Learning. Runtime Verification Lecture Notes in Computer Science, 307-322. [https://doi.org/10.1007/978-3-319-11164-3_26](https://doi.org/10.1007/978-3-319-11164-3_26)
 
 #### [10]
-#### Heymans, P., Schobbens, P., Trigaux, J., Bontemps, Y., Matulevičius, R., &amp; Classen, A. (2008). Evaluating formal properties of feature diagram languages. IET Software, 2(3), 281. doi:10.1049/iet-sen:20070055
+#### Heymans, P., Schobbens, P., Trigaux, J., Bontemps, Y., Matulevičius, R., &amp; Classen, A. (2008). Evaluating formal properties of feature diagram languages. IET Software, 2(3), 281. [https://doi.org/10.1049/iet-sen:20070055](https://doi.org/10.1049/iet-sen:20070055)
 
 #### [11]
-#### Duhaiby, O. A., &amp; Groote, J. F. (2020). Active Learning of Decomposable Systems. Proceedings of the 8th International Conference on Formal Methods in Software Engineering. doi:10.1145/3372020.3391560
+#### Duhaiby, O. A., &amp; Groote, J. F. (2020). Active Learning of Decomposable Systems. Proceedings of the 8th International Conference on Formal Methods in Software Engineering. [https://doi.org/10.1145/3372020.3391560](https://doi.org/10.1145/3372020.3391560)

@@ -21,7 +21,7 @@
     
     Another automata learning algorithm that was reviewed was the TTT algorithm. What distinguishes TTT from the Angluin L* anlgorithm is its its redundancy-free organization of observations, which can be exploited to achieve optimal linear space complexity.
 
-- Learning of Decomposable Systems:
+- Active Learning of Decomposable Systems:
     - paper: [[11]](#11)
 
 A big problem with active learning is that it is very difficult to learn large models and learning models with tens of thousands of states becomes exceptionally resource intensive. In this type of learning models the system is divided into separate components and each component is learned individually. The final learned model is the synchronous product of all the separately learned components.

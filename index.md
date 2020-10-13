@@ -90,3 +90,13 @@ A big problem with active learning is that it is very difficult to learn large m
 
 #### [11]
 #### Duhaiby, O. A., &amp; Groote, J. F. (2020). Active Learning of Decomposable Systems. Proceedings of the 8th International Conference on Formal Methods in Software Engineering. [https://doi.org/10.1145/3372020.3391560](https://doi.org/10.1145/3372020.3391560)
+
+
+#### [12]
+#### Sanchez, L., Groote, J. F., &amp; Schiffelers, R. R. (2019). Active Learning of Industrial Software with Data. Fundamentals of Software Engineering Lecture Notes in Computer Science, 95-110. [https://doi.org/10.1007/978-3-030-31517-7_7](https://doi.org/10.1007/978-3-030-31517-7_7)
+
+#### [13]
+#### Duhaiby, O. A., &amp; Groote, J. F. (2019). Distribution of Behaviour into Parallel Communicating Subsystems. Electronic Proceedings in Theoretical Computer Science, 300, 54-68. [https://doi.org/10.4204/eptcs.300.4](https://doi.org/10.4204/eptcs.300.4)
+
+#### [14]
+#### Duhaiby, O. A., Mooij, A., Wezep, H. V., &amp; Groote, J. F. (2018). Pitfalls in Applying Model Learning to Industrial Legacy Software. Lecture Notes in Computer Science Leveraging Applications of Formal Methods, Verification and Validation. Industrial Practice, 121-138. [https://doi.org/10.1007/978-3-030-03427-6_13](https://doi.org/10.1007/978-3-030-03427-6_13)

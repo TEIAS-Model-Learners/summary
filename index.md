@@ -14,7 +14,7 @@
 - [Alireza Salemi](https://www.linkedin.com/in/alireza-salemi-33b068166/)
 - [Zahra Hoseini](#)
 
-# What we have learnt sofar:
+# What we have Done:
 # Foundations
 - Two main techniques which we studied both to know which, each of us prefer to research on:
     - model checking:

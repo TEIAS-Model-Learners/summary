@@ -3,13 +3,12 @@
 ![teias-logo](logo.jpeg)
 
 
-## Team Members:
+## People
 ### Professors:
 - [Prof. Mohammad Reza Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/)
 - [Prof. Hossein Hojjat](https://scholar.google.com/citations?user=hkfVNCMAAAAJ&hl=en)
 ### Research Interns:
 - [Amin Asadi Sarijalou](https://sites.google.com/view/aasadi)
-
 - [Rasta Tadayon Tahmasebi](https://www.linkedin.com/in/rasta-tadayon-95b6381b0/?originalSubdomain=ir)
 - [Alireza Salemi](https://www.linkedin.com/in/alireza-salemi-33b068166/)
 - [Zahra Hoseini](#)
